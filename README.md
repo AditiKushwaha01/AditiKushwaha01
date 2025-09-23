@@ -77,7 +77,7 @@ I am passionate about building scalable applications and working on projects tha
 ## 📊 Quick Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiKushwaha01&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiKushwaha01&layout=compact&langs_count=6&hide=C++" alt="GitHub Stats"/>
 </p>
 
 ---
