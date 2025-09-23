@@ -1,8 +1,7 @@
 # Hi there 👋, I’m Aditi Kushwaha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Kushwaha-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)  
-[![GitHub followers](https://img.shields.io/github/followers/AditiKushwaha01?label=Follow&logo=github)](https://github.com/AditiKushwaha01?tab=followers)  
-[![Twitter](https://img.shields.io/badge/Twitter-@your_twitter_handle-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)  
+[![GitHub followers](https://img.shields.io/github/followers/AditiKushwaha01?label=Follow&logo=github)](https://github.com/AditiKushwaha01?tab=followers)   
 
 ---
 
