@@ -40,7 +40,7 @@ Computer Science Engineering graduate with experience in **full-stack web develo
 ---
 
 ## 🏆 Achievements  
-- Winner — **Vultr Cloud Innovative Hackathon (2024)**  
+- Semi-finalist — **Vultr Cloud Innovative Hackathon (2024)**  
 - Certificate — **Digital Forensics & Incident Response**  
 - Sports — **3rd place**, AKTU Sports Zonal Relay Race  
 
