@@ -18,7 +18,7 @@
 Computer Science Engineering graduate with experience in **full-stack web development** (Java, Spring Boot, React) and a passion for building scalable applications that create real-world impact.  
 
 - 🔭 Current project: **FoodSathi — Sustainable Food Redistribution Platform**  
-- 💼 Internship: Built a **Student Grade Tracker** (Java · Spring Boot · Maven) at CodTech IT Solutions  
+- 💼 Internship: Built a **She Weaves** (Java · Spring Boot · Maven) at Kodnest  
 - 🌱 Exploring: AI-powered apps & scalable system design  
 
 ---
@@ -42,7 +42,9 @@ Computer Science Engineering graduate with experience in **full-stack web develo
 ## 🏆 Achievements  
 - Semi-finalist — **Vultr Cloud Innovative Hackathon (2024)**  
 - Certificate — **Digital Forensics & Incident Response**  
-- Sports — **3rd place**, AKTU Sports Zonal Relay Race  
+- Sports — **3rd place**, AKTU Sports Zonal Relay Race
+
+  ![Snake](https://github.com/AditiKushwaha01/AditiKushwaha01/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
